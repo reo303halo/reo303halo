@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Roy Espen Olsen
-- 👀 I’m interested in Music, Nintendo and Programming!
-- 🌱 I’m currently learning Python(and soon multiple languages!
+- 🖱 Hi, I’m Roy Espen Olsen
+- 🎛 I’m interested in Music, Nintendo and Programming!
+- 💻 I’m currently learning Python(and soon multiple programming languages!)
 
 <!---
 reo303halo/reo303halo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
