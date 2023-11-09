@@ -1,6 +1,6 @@
 - 🖱 Hi, I’m Roy Espen Olsen
 - 🎛 I’m interested in Music, Nintendo and Programming!
-- 💻 I’m currently learning Python(and soon multiple programming languages!)
+- 💻 My favourite programming language has to be Swift, with Python as a close number 2.
 
 <!---
 reo303halo/reo303halo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
